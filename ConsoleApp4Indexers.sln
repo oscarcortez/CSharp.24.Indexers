@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28917.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp4Indexers", "ConsoleApp4Indexers\ConsoleApp4Indexers.csproj", "{775F70AD-33A5-4986-891B-607FEB786705}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Models", "Models\Models.csproj", "{305F7A1C-C693-4EA0-A4FF-DD9E9D3B40A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{775F70AD-33A5-4986-891B-607FEB786705}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{775F70AD-33A5-4986-891B-607FEB786705}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{775F70AD-33A5-4986-891B-607FEB786705}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{775F70AD-33A5-4986-891B-607FEB786705}.Release|Any CPU.Build.0 = Release|Any CPU
+		{305F7A1C-C693-4EA0-A4FF-DD9E9D3B40A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{305F7A1C-C693-4EA0-A4FF-DD9E9D3B40A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{305F7A1C-C693-4EA0-A4FF-DD9E9D3B40A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{305F7A1C-C693-4EA0-A4FF-DD9E9D3B40A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99ECE5A5-B6F0-4172-AC0E-415778E153F9}
+	EndGlobalSection
+EndGlobal
